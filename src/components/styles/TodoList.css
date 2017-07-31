@@ -1,0 +1,10 @@
+.TodoList{
+    padding-top: 10px;
+    display: flex;
+    align-items:center;
+    flex-flow: column nowrap;
+}
+.NoTodoList{
+    padding-top: 10px;
+    text-align: center;
+}

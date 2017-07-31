@@ -1,0 +1,19 @@
+
+
+
+.App-Content {
+  display: flex;
+  justify-content: center;
+}
+
+.Content{
+  width: 80%;
+}
+
+.Content-Title{
+  text-align: center;
+}
+
+.Content-Preload{
+  text-align: center;
+}

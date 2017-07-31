@@ -1,0 +1,24 @@
+.TodoItem{
+    width:320px;
+    margin-bottom: 20px;
+}
+
+.TodoItem-Content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.TodoItem-Title{
+    flex:4;
+}
+
+
+
+.TodoItem-Checkbox{
+    flex:1;
+}
+
+.TodoItem-Delete{
+    flex:1;
+}
